@@ -1,9 +1,13 @@
 module.exports = mongoose => {
   var schema = mongoose.Schema(
     {
-      name: String,
-      course: String,
-      registered: Boolean,
+      title: String,
+      description: String,
+      auteur: String,
+      annee :  Number,
+      genre: String,
+      acteur : String,
+
     },
     { timestamps: true }
   );
@@ -14,6 +18,6 @@ module.exports = mongoose => {
     return object;
   });
 
-  const Student = mongoose.model("student", schema);
-  return Student;
+  const movies = mongoose.model("movies", schema);
+  return movies;
 };

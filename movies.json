@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "title":"Joker",
+        "description" : "Un homme qui se déguise en clown",
+        "auteur" : "Todd Phillips",
+        "annee":  2018,
+        "genre": "horreur",
+        "acteur" : "justin timberlake,camilla cabello"
+    },
+    {
+        "id": 2,
+        "title":"Maman j'ai raté l'avion",
+        "description" : "Un garcon et sa mére veulent partir en voyage.",
+        "auteur" : "Ryan  Coogler",
+        "annee":  "2019",
+        "genre": "comédie",
+        "acteur" : "Ryan Coogler,Quvenzhané Wallis"
+
+    },
+    {
+        "id": 3,
+        "title":"Avengers: Endgame ",
+        "description" : "L'équipe  des super-héros du MCU doit se  réunir pour arrêter Thanos avant  qu’il ne soit trop tard. ",
+        "auteur" : "Todd Phillips",
+        "annee":  "2019",
+        "genre": "aventure",
+        "acteur" : "Mickeal Jordan"
+    },
+    {
+        "id": 4,
+        "title":"Titanic" ,
+        "description" : "Roméo et Julliette ",
+        "auteur" : "Jennifer",
+        "annee":  "1999",
+        "genre": "romantic",
+        "acteur" : "Mickeal Jackson"
+        
+    },
+    {
+        "id": 5,
+        "title":"Spider Man" ,
+        "description" : "Roméo et Julliette ",
+        "auteur" : "Jennifer",
+        "annee":  "1999",
+        "genre": "romantic",
+        "acteur" : "Tony parker"
+        
+    }
+   
+
+
+
+]
